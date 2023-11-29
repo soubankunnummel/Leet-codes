@@ -17,5 +17,5 @@ const checkPalindrom = (words) => {
         return true
 }
 
-const  words =  ["notapalindrome","racecar"]
+const  words =  ["notapalindrome","racecar", "apple"]
 console.log(firstPalindrome(words))
