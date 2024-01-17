@@ -29,10 +29,7 @@
 
 
 
-/**
- * @param {string} s
- * @return {number}
- */
+
 var findTheLongestBalancedSubstring = function(s) {
     let ans = 0;
     let str = '';
